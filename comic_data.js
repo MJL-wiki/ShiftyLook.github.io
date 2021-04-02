@@ -246,7 +246,7 @@ var COMIC_LIST = {
 				{"url": "WM200_Thank-You-Readers.png"}
 			]			
 		}, "wl": {
-			"base_url": "comics/wonderland",
+			"base_url": "comics/waganland",
 			"pages": [
 				{"url": "WL001_Welcome-To-Wagan-Land.png"},
 				{"url": "WL002_Mushroom-Madness.png"},
