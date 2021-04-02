@@ -20,7 +20,7 @@ var COMIC_LIST = {
 				{"url": "BM015_Bravo-Copterjet.png"},
 				{"url": "BM016_Snack-Attack.png"},
 				{"url": "BM017_All-About-Lottery-Man.png"},
-				{"url": "BM018_Fancy-Angles.png{"},
+				{"url": "BM018_Fancy-Angles.png"},
 				{"url": "BM019_Higher-Power.png"},
 				{"url": "BM020_Oh-Snap.png"},
 				{"url": "BM021_Universal-Humor.png"},
@@ -101,7 +101,7 @@ var COMIC_LIST = {
 				{"url": "BM097_RCM-Returns.png"},
 				{"url": "BM098_Mailbag.png"},
 				{"url": "BM099_Anti-Tank.png"},
-				{"url": "BM100_Number-100!.png"}
+				{"url": "BM100_Number-100!.png"},
 			]
 		}, "wondermomo": {
 			"base_url": "comics/wondermomo/",
