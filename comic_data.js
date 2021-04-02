@@ -244,6 +244,24 @@ var COMIC_LIST = {
 				{"url": "WM039_Child-Endangerment.png"},
 				{"url": "WM040_The-End-Of-An-Era.png"},
 				{"url": "WM200_Thank-You-Readers.png"}
+			]			
+		}, "wl": {
+			"base_url": "comics/wonderland",
+			"pages": [
+				{"url": "WL001_Welcome-To-Wagan-Land.png"},
+				{"url": "WL002_Mushroom-Madness.png"},
+				{"url": "WL003_Crazy-Kitty.png"},
+				{"url": "WL004_Monkey-Mayhem.png"},
+				{"url": "WL005_Brotherly-Blues.png"},
+				{"url": "WL006_Stars-Truck.png"},
+				{"url": "WL007_Warped-Zone.png"},
+				{"url": "WL008_Hot-Hazards.png"},
+				{"url": "WL009_Shark-Bait.png"},
+				{"url": "WL010_Ursus-Awful.png"},
+				{"url": "WL011_Waganize-This.png"},
+				{"url": "WL012_Salmon-Run.png"},
+				{"url": "WL013_Ooga-Booga.png"},
+				{"url": "WL014_Cousin-Crazies.png"}
 			]
 		}
 	}
